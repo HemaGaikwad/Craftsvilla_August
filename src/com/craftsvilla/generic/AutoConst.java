@@ -1,5 +1,6 @@
 package com.craftsvilla.generic;
 
+//An interface to hold constants
 public interface AutoConst 
 {
 	
